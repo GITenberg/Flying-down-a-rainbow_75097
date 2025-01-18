@@ -1,0 +1,26 @@
+_repo: Flying-down-a-rainbow_75097
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gordon, Homer King
+    gutenberg_agent_id: '57823'
+    url: http://www.gutenberg.org/2009/agents/57823
+description: ''
+gutenberg_issued: '2025-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75097'
+language: en
+pgterms:marc904: https://archive.org/details/short-stories-v-127-n-01-1929-04-10
+pgterms:marc905: 20250102004505gordon
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bDoubleday, Doran and Company, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Flying down a rainbow
+url: http://www.gutenberg.org/ebooks/75097
